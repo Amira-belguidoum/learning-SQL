@@ -1,3 +1,7 @@
+/*What are your favorite books? You can make a database table to store them in!
+In this first step, create a table to store your list of books. It should have columns for id, name, and rating.*/
+
+
 CREATE TABLE books /*this line creates a table called books*/ 
     (
         id INTEGER,         /* creating the first column called id with an integer type */
